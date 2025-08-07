@@ -1,0 +1,6 @@
+
+
+endpoints ->
+  admin
+  -->1 admin password store in sql query 
+  create user values ("admin1" ,"$10$WZnkrUiO945Bw8VUB30lTOD0Kf.nRMEB5RNi6V0akZmVD7EuYRLDS", "a@gmail.com", );
